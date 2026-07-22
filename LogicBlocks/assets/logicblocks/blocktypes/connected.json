@@ -1,0 +1,12 @@
+{
+  "code": "connected",
+  "blockmaterial": "Stone",
+  "resistance": 3.5,
+  "sounds": {
+    "place": "game:block/anvil",
+    "walk": "game:walk/stone"
+  },
+  "shape": {
+    "base": "connected"
+  }
+}

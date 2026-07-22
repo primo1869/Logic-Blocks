@@ -1,0 +1,13 @@
+{
+  "type": "Code",
+  "modid": "logicblocks",
+  "name": "Logic Blocks",
+  "authors": [
+    "Primo"
+  ],
+  "description": "This mod provides blocks for logic and interactions with gates",
+  "version": "1.1.1",
+  "dependencies": {
+    "game": "1.22.5"
+  }
+}

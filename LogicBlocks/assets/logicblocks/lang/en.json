@@ -1,0 +1,10 @@
+{
+  "game:tabname-logicblocks": "Logic Blocks",
+  "block-pulse": "(Logic Blocks) Pulse block",
+  "block-switch": "(Logic Blocks) Switch block",
+  "block-andgate": "(Logic Blocks) AND gate",
+  "block-orgate": "(Logic Blocks) Signal relay",
+  "block-notgate": "(Logic Blocks) NOT gate",
+  "block-flipflop": "(Logic Blocks) Flip/flop memory",
+  "item-connector": "(Logic Blocks) Connector"
+}

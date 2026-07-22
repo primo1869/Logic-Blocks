@@ -1,0 +1,18 @@
+{
+  "code": "pulse",
+  "entityclass": "logicblocks.pulse",
+  "creativeinventory": {
+    "general": [ "*" ],
+    "logicblocks": [ "*" ]
+  },
+  "drawtype": "Cube",
+  "texture": {
+    "base": "block/pulse"
+  },
+  "blockmaterial": "Stone",
+  "resistance": 3.5,
+  "sounds": {
+    "place": "game:block/anvil",
+    "walk": "game:walk/stone"
+  }
+}

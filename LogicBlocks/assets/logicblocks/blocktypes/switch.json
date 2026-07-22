@@ -1,0 +1,18 @@
+{
+  "code": "switch",
+  "entityclass": "logicblocks.switch",
+  "creativeinventory": {
+    "general": [ "*" ],
+    "logicblocks": [ "*" ]
+  },
+  "drawtype": "Cube",
+  "texture": {
+    "base": "block/switch"
+  },
+  "blockmaterial": "Stone",
+  "resistance": 3.5,
+  "sounds": {
+    "place": "game:block/anvil",
+    "walk": "game:walk/stone"
+  }
+}

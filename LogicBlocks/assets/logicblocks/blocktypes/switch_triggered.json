@@ -1,0 +1,12 @@
+{
+  "code": "switch_triggered",
+  "blockmaterial": "Stone",
+  "resistance": 3.5,
+  "sounds": {
+    "place": "game:block/anvil",
+    "walk": "game:walk/stone"
+  },
+  "shape": {
+    "base": "block/switch_triggered"
+  }
+}
